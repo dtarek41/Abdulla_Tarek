@@ -12,15 +12,15 @@ Data Analyst focused on turning complex datasets into clear, decision-ready insi
 
 ### 1) Montgomery Crash Safety Capstone
 - Problem-driven crash risk prioritization using KSI and corridor-level analysis.
-- Repo: `https://github.com/<github_username>/montgomery-crash-safety-capstone`
+- Repo: `https://github.com/dtarek41/montgomery-crash-safety-capstone`
 
 ### 2) British Airways Excel Analysis
 - Excel-based review analysis and business insight packaging for decision support.
-- Repo: `https://github.com/<github_username>/british-airways-excel-analysis`
+- Repo: `https://github.com/dtarek41/british-airways-excel-analysis`
 
 ### 3) Wind Energy Data Sprint
 - Wind data sprint with comparative recommendation framing and structured deliverables.
-- Repo: `https://github.com/<github_username>/wind-energy-data-sprint`
+- Repo: `https://github.com/dtarek41/wind-energy-data-sprint`
 
 ## Skills
 `SQL` `Excel` `Power BI` `Tableau` `Python` `Data Cleaning` `Data Visualization` `KPI Reporting`
@@ -33,4 +33,4 @@ Data Analyst focused on turning complex datasets into clear, decision-ready insi
 To use this as your GitHub profile README:
 1. Create a repository named exactly your GitHub username.
 2. Copy this `README.md` into that repo.
-3. Replace `<github_username>` with your real username.
+3. Replace `dtarek41` with your real username.
