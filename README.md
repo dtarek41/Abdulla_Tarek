@@ -28,9 +28,3 @@ Data Analyst focused on turning complex datasets into clear, decision-ready insi
 ## Contact
 - Email: `abdullatarek4@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/abdulla-tarek/`
-
----
-To use this as your GitHub profile README:
-1. Create a repository named exactly your GitHub username.
-2. Copy this `README.md` into that repo.
-3. Replace `dtarek41` with your real username.
