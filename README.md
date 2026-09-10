@@ -6,9 +6,9 @@ I am pursuing junior data analyst and BI opportunities. I focus on framing usefu
 
 ## Selected projects
 
-### [Montgomery crash safety analysis](https://github.com/dtarek41/montgomery-crash-safety-capstone)
+### [Montgomery crash safety portfolio — in progress](https://github.com/dtarek41/montgomery-crash-safety-capstone)
 
-An analysis of 48,878 reported crashes during 2020-2024, with reproducible severity counts, geographic screening and sensitivity checks. It identifies locations for further investigation and states missing passenger and exposure coverage.
+An in-progress analysis of 48,878 reported crashes during 2020-2024. It is being refreshed as a reproducible dashboard and geographic screening project; the completed portfolio release is still being verified.
 
 ### [British Airways review analysis](https://github.com/dtarek41/british-airways-excel-analysis)
 
@@ -22,7 +22,7 @@ A data sprint profiling 5,000 turbine records and checking partial plant-generat
 
 SQL is my strongest technical foundation. I am developing Python/pandas skills in cleaning, joins, aggregation and exploratory analysis. I have practical experience with Excel, Power BI and Tableau and am continuing to build depth through projects.
 
-The capstone includes substantial AI-assisted geospatial and statistical implementation, with my original work focused on framing, research and exploratory analysis. Each repository documents the methods, checks, limitations and AI contribution.
+The in-progress Montgomery capstone includes substantial AI-assisted geospatial and statistical implementation, with my original work focused on framing, research and exploratory analysis. Each repository documents the methods, checks, limitations and AI contribution.
 
 ## Contact
 
