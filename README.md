@@ -1,30 +1,41 @@
 # Abdulla Tarek
 
-**Data & BI Analyst | Analytics Educator**
+**Data Analyst | Business Intelligence | Analytics Educator**
 
-I am pursuing junior data analyst and BI opportunities. I focus on framing useful questions, cleaning and joining data, checking results and explaining what the evidence supports. Teaching has helped me communicate analytical ideas clearly.
+I use data to frame useful questions, check evidence and explain findings. I am seeking junior Data Analyst and BI opportunities, bringing analytics project experience and my work as an Associate Instructor at General Assembly Middle East.
 
-## Selected projects
+## Explore my work
 
-### [Montgomery crash safety analytics](https://github.com/dtarek41/montgomery-crash-safety-capstone)
+### [Montgomery crash safety](https://github.com/dtarek41/montgomery-crash-safety-capstone)
 
-An analysis of 48,878 recorded crash reports during 2020-2024, with a six-page Power BI report, offline explorer, reproducible notebook and presentation. A separately labelled latest-source view receives validated weekly updates and identifies the partial current year. The project distinguishes recorded burden and diagnostic associations from exposure-based risk or treatment effects.
+**Question:** What should transportation leads examine before choosing a road-safety review scope?
+
+The complete 2020–2025 analysis covers **59,195 crash reports**. It connects recorded injury burden, data quality, lighting comparisons and road-selection sensitivity to six bounded review actions. An eight-view offline explorer and eight-page Power BI project support exploration; a presentation, executed Python notebook and portable technical report expose the evidence.
+
+**Tools and methods:** Python/pandas, Power BI, data validation, descriptive and geospatial analysis. [Start with the findings and dashboard](https://github.com/dtarek41/montgomery-crash-safety-capstone#findings).
 
 ### [British Airways review analysis](https://github.com/dtarek41/british-airways-excel-analysis)
 
-An Excel analysis of 3,687 retained reviews, exploring rating and recommendation patterns using source scales, response coverage and comparisons within traveller, seat and year groups.
+**Question:** Which review patterns deserve a closer customer-experience investigation?
 
-### [Wind energy sample inventory and lineage](https://github.com/dtarek41/wind-energy-data-sprint)
+Across **3,687 retained reviews**, value-for-money ratings closely track overall ratings and recommendation. The Excel workbook keeps original rating scales and response coverage visible, including the limited Wi-Fi sample.
 
-A data sprint profiling 5,000 turbine records and checking partial plant-generation lineage. It documents why turbine, project and plant data must be reconciled before performance comparisons.
+**Tools and methods:** Excel, cleaning, formulas, grouped comparisons and reporting. [Read the 11-slide summary](https://github.com/dtarek41/british-airways-excel-analysis/blob/main/deliverables/british-airways-analysis-revised.pdf).
 
-## Tools and development
+### [Wind energy inventory and lineage](https://github.com/dtarek41/wind-energy-data-sprint)
 
-SQL is my strongest technical foundation. I am developing Python/pandas skills in cleaning, joins, aggregation and exploratory analysis. I have practical experience with Excel, Power BI and Tableau and am continuing to build depth through projects.
+**Question:** Can supplied turbine and generation samples support a reliable performance comparison?
 
-The Montgomery capstone includes substantial AI-assisted geospatial and statistical implementation, with my original work focused on framing, research and exploratory analysis. Each repository documents the methods, checks, limitations and AI contribution.
+The analysis profiles **5,000 turbine records** and verifies generation matches for **85 of 120 plant IDs**. It identifies repeated plant-level values and inconsistent project groupings that must be resolved before calculating performance.
+
+**Tools and methods:** Excel, data profiling, source reconciliation and join-grain checks. [Read the seven-slide summary](https://github.com/dtarek41/wind-energy-data-sprint/blob/main/deliverables/wind-energy-analysis-revised.pdf).
+
+## Skills and contribution
+
+SQL for analysis; Excel cleaning and reporting; working knowledge of Python/pandas; Power BI modeling and visualization; Tableau; data validation and stakeholder communication.
+
+My original Montgomery contribution focused on problem framing, research and pandas exploration. The projects include AI-assisted implementation, correction and validation, documented in each repository. I can discuss the questions, evidence and limitations; advanced statistical and geospatial components include substantial AI assistance.
 
 ## Contact
-
 - [Email](mailto:abdullatarek4@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abdulla-tarek/)
